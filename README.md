@@ -152,12 +152,16 @@
 
 <div>
 <h2 align="center">⭐️ My Github Streak Stats:</h2>
-<img align="center" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=snackd&theme=dark" />
+    <p align="center">
+        <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=snackd&theme=dark" />
+    </p>                                                                                        
 </div>
 
 <div>
 <h2 align="center">⭐️ My Github Stats:</h2>
-<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=snackd&show_icons=true&theme=bear" />
+        <p align="center">
+            <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=snackd&show_icons=true&theme=bear" />
+        </p>                                                                                        
 </div>
 <!-- <details> -->
   <!-- <summary>📋 Recent GitHub Activities </summary> -->
