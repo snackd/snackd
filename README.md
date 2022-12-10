@@ -147,7 +147,9 @@
 
 <div>
 <h2 align="center">🏆 My Github Trophy:</h2>
-<img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=snackd&theme=darkhub&title=MultiLanguage,Commits,Repositories,Stars&row=2&column=3&margin-w=10&margin-h=10" />
+    <p align="center">
+        <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=snackd&theme=darkhub&title=MultiLanguage,Commits,Repositories,Stars&row=2&column=3&margin-w=10&margin-h=10" />
+        </p>
 </div>
 
 <div>
