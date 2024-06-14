@@ -1,6 +1,6 @@
 <div>
 <h1 align="center">
-    Hi, I'm SnackD
+    Hi, I'm De-Zhong,Zhuang
 </h1>
 
 <div align= "center">
